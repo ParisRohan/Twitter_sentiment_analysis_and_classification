@@ -3,6 +3,10 @@ This is an entity-level sentiment analysis dataset of twitter. Given a message a
 
 # Medium Blog:
 
+# Files:
+* EDA_TextCleaning.ipynb - EDA and text cleaning code
+* Model_building.ipynb - Model building code
+
 # Workflow:
 
 ## 1. Data Collection:
