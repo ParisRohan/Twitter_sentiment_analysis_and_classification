@@ -33,6 +33,8 @@ https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 * Convert tweets into lowercase
 * Remove stopwords
 * Normalize text by converting words into lemma
+* Generate word clouds for each sentiment on the cleaned tweets
+![image](https://user-images.githubusercontent.com/49038495/180649932-fd958ba5-8e55-4702-902a-ef67884e9087.png)
 * Perform one-hot encoding on the 'Topic' feature
 * Drop features like 'Tweet_ID','Tweet','Topic' as they are no longer required
 
