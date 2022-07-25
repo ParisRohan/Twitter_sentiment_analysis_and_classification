@@ -1,6 +1,10 @@
 # Usecase:
 This is an entity-level sentiment analysis dataset of twitter. Given a message and an entity, the task is to judge the sentiment of the message about the entity. There are three classes in this dataset: Positive, Negative, Neutral and Irrelevant.
 
+# Tech Stack:
+* Category: NLP, Multiclass Classification problem
+* Tech Stack: Python, Regular expression, Word cloud, NLTK, TF-IDF, Bag of Words, Pandas, Matplotlib, Sklearn
+
 # Medium Blog:
 https://parisrohan.medium.com/twitter-sentiment-analysis-and-classification-7060d4444a27
 
